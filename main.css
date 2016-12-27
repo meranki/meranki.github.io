@@ -1,0 +1,41 @@
+<style media="screen">
+#toes {
+  font-size: 67px
+}
+.hello{
+background-color: pink
+}
+.bolus{
+background-image: url(http://del.h-cdn.co/assets/15/44/black-forest-cupcakes4-edit4srgb.jpg); background-size: contain;
+}
+.crazy{
+background-color: purple
+}
+.mixtape{
+background-color: blue
+}
+.rap{
+background-color: red
+}
+.human{
+background-color: silver
+}
+.fingers{
+background-color: yellow
+}
+
+  img {width:250px;height: 250px}
+  body {background-color: black}
+  body {
+    background-image: url(http://images-gmi-pmc.edge-generalmills.com/4f041061-88a3-4886-98ae-e65da19e79bd.jpg);
+     height: 396px;
+     width: 415px;
+  background-blend-mode: difference;}
+
+  img {background-color: black; padding: 20px}
+p {color: blue}
+.bolus {
+margin: 20px;
+}
+
+</style>
